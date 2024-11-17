@@ -1,0 +1,7 @@
+**出题人**：tenstrings
+
+**题目描述**：在你解出bp0qn的秘密后，他将秘密又藏入了一段神秘的音频文件。它的节奏与波动仿佛在诉说一段故事，声音三要素的微妙变化似乎暗示了什么。也许，F会给你答案。
+
+Challenge Type: DynamicContainer 
+
+this challenge has no attachment

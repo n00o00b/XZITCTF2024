@@ -1,0 +1,8 @@
+编写Aarch64汇编，读取"/flag"中的秘密！
+注意: 目标环境无"/bin/sh", 请调用"/bin/cat"读取"/flag"中的内容
+
+另外，为了方便选手快速生成汇编字节码，这里贴心的为大家准备了一些工具(tools文件夹)，相信你用的上的~ ()
+
+提示: 本地使用qemu启动该程序。"./qemu-aarch64-static -L . ./src"
+
+Challenge Type: StaticContainer

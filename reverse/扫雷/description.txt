@@ -1,0 +1,4 @@
+ 一个简单的扫雷小游戏~ 通关就给flag
+    操作: 上下左右移动光标，空格标记地雷，回车翻面
+
+Challenge Type: StaticAttachment

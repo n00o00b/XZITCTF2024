@@ -1,0 +1,3 @@
+分析数据包cap,找出黑客在前端进行文件上传的页面，把木马内容加密成md5提交
+
+Challenge Type: StaticAttachment

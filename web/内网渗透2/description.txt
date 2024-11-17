@@ -1,0 +1,6 @@
+题目描述：你了解keepass吗，密码为Web服务器的机器名
+
+
+Challenge Type: StaticAttachment 
+
+this challenge has no attachment

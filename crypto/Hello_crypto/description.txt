@@ -1,0 +1,3 @@
+你知道lucky_number嘛
+
+Challenge Type: StaticAttachment

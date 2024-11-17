@@ -1,0 +1,6 @@
+题目地址：
+题目描述：简单的PHP，flag位于web目录
+
+Challenge Type: StaticAttachment 
+
+this challenge has no attachment
